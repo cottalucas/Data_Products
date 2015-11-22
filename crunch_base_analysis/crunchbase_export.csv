@@ -1,0 +1,26 @@
+region_1,num_investimets_1,region_2,sum_investiments,country,num_investiments_2
+SF Bay Area,"1,360",SF Bay Area,"$20,863,342,836",United States,"5,738"
+New York City,701,New York City,"$6,199,067,344",United Kingdom,541
+London,422,Nanjing,"$4,660,000,000",India,500
+Boston,405,Boston,"$4,287,186,180",Canada,263
+Los Angeles,300,London,"$3,777,458,057",Germany,186
+Seattle,201,Shanghai,"$3,554,965,274",China,144
+Austin,150,Beijing,"$3,549,500,000",Israel,150
+Chicago,145,Los Angeles,"$2,743,162,153",France,122
+Bangalore,141,Seattle,"$2,450,933,248",Singapore,95
+"Washington, D.C.",140,Chicago,"$1,598,279,282",Australia,94
+Denver,139,Mumbai,"$1,377,039,405",Spain,93
+San Diego,133,Austin,"$1,361,928,475",Netherlands,94
+New Delhi,122,Bangalore,"$1,312,711,295",Sweden,73
+Tel Aviv,112,Berlin,"$1,135,170,849",Japan,70
+Toronto,110,Denver,"$1,056,601,831",Italy,51
+Mumbai,96,San Diego,"$1,048,882,322",Switzerland,55
+Singapore,95,"Washington, D.C.","$980,246,064",Indonesia,44
+Berlin,86,New Delhi,"$948,400,715",Ireland,52
+Paris,85,Salt Lake City,"$945,403,315",Brazil,50
+Atlanta,85,Singapore,"$887,170,427",Finland,42
+Raleigh,81,Hangzhou,"$880,000,000",Russia,35
+Anaheim,73,Tel Aviv,"$821,302,371",Denmark,38
+Philadelphia,72,Stockholm,"$662,547,615",South Korea,40
+Minneapolis,66,Anaheim,"$618,784,204",Hong Kong,38
+,,Newark,"$584,943,049",Bulgaria,28
