@@ -2,6 +2,7 @@ shinyUI(fluidPage(
   titlePanel("Crunch Base Analysis"),
   sidebarLayout(
     sidebarPanel(
+    
       fileInput('file', 'Choose file to upload',
                 accept = c(
                   'text/csv',
