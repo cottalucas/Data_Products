@@ -39,11 +39,11 @@
 
 > <cite>Napoleon Bonaparte</cite>
 
-```
+
 > Data! Data! Data! I can’t make bricks without clay!
 
 > <cite>Sir Arthur Conan Doyle</cite>
-```
+
 
 ---
 
