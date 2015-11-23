@@ -1,0 +1,56 @@
+---
+ title    : Crunch Base Analysis 
+ author   : Lucas Cotta
+ job      : Data Scientist
+ widgets  : []
+ mode     : selfcontained
+ ---
+
+1. <h3>Crunch Base </h3>
+   A leading platform to invest on innovative companies
+2. <h3>Market Position</h3>
+   One of the biggest responsible for the startup boom.
+
+---
+
+
+```html
+<section class="slide">
+  <h2>Data Analysis</h2>
+  <ol>
+    <li>
+      <h3>How works?</h3>
+      <p>With data provived from ChunchBase geochart can be generated.</p>
+    </li>
+    <li>
+      <h3>Why?</h3>
+      <p>The visual tools make the data more readable</p>
+    </li>
+    …
+  </ol>
+</section>
+```
+
+---
+
+## The Importance of Data
+
+> War is ninety percent information.
+
+> <cite>Napoleon Bonaparte</cite>
+
+```
+> Data! Data! Data! I can’t make bricks without clay!
+
+> <cite>Sir Arthur Conan Doyle</cite>
+```
+
+---
+
+## Video Embeds
+
+The application runs very easily
+
+  - Choose the .csv file to be analyzed
+  - Choose the filter parameters (area, value, quantity) 
+  - Analyze!
